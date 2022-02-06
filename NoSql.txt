@@ -1,0 +1,137 @@
+officeCode extension reportsTo extension officeCode reportsTo 
+extension reportsTo jobTitle jobTitle firstName jobTitle 
+email officeCode jobTitle extension email 
+extension email jobTitle extension 
+reportsTo extension extension reportsTo jobTitle 
+jobTitle extension jobTitle 
+extension email jobTitle extension extension jobTitle 
+reportsTo firstName reportsTo extension reportsTo jobTitle 
+extension reportsTo officeCode extension reportsTo firstName 
+jobTitle email reportsTo 
+city state addressLine2 salesRepEmployeeNumber country addressLine1 addressLine2 
+postalCode addressLine1 addressLine2 
+country addressLine1 postalCode contactFirstName addressLine2 country state 
+contactLastName creditLimit contactFirstName creditLimit city creditLimit phone addressLine1 contactLastName postalCode addressLine1 
+contactFirstName state salesRepEmployeeNumber postalCode contactLastName 
+creditLimit addressLine1 salesRepEmployeeNumber postalCode state country city addressLine2 creditLimit 
+state salesRepEmployeeNumber city postalCode 
+postalCode phone state phone state territory 
+postalCode phone territory country postalCode country addressLine1 
+phone territory phone country 
+state country addressLine1 country phone postalCode state 
+country addressLine1 addressLine2 country 
+addressLine1 phone state 
+addressLine2 territory addressLine1 addressLine1 
+state state state 
+country postalCode country addressLine2 phone phone state 
+addressLine2 postalCode addressLine1 addressLine2 territory 
+state postalCode 
+state state phone phone phone postalCode postalCode addressLine2 
+priceEach quantityOrdered quantityOrdered priceEach 
+orderLineNumber orderLineNumber orderLineNumber quantityOrdered 
+quantityOrdered priceEach priceEach orderLineNumber X
+quantityOrdered priceEach 
+orderLineNumber orderLineNumber orderLineNumber 
+quantityOrdered orderLineNumber priceEach priceEach X
+priceEach priceEach orderLineNumber orderLineNumber 
+orderLineNumber quantityOrdered 
+shippedDate comments customerNumber status requiredDate customerNumber 
+status comments customerNumber customerNumber 
+shippedDate requiredDate shippedDate shippedDate status customerNumber 
+requiredDate status 
+status status requiredDate status comments requiredDate 
+shippedDate requiredDate requiredDate requiredDate status customerNumber 
+status requiredDate 
+requiredDate requiredDate comments customerNumber status 
+customerNumber shippedDate comments 
+shippedDate requiredDate 
+shippedDate requiredDate 
+amount paymentDate 
+paymentDate amount 
+paymentDate paymentDate amount 
+amount paymentDate paymentDate 
+paymentDate paymentDate 
+amount paymentDate amount 
+paymentDate paymentDate amount 
+image image 
+image htmlDescription image 
+htmlDescription htmlDescription 
+htmlDescription image htmlDescription 
+image htmlDescription htmlDescription 
+image image image 
+htmlDescription image image 
+htmlDescription htmlDescription image 
+image htmlDescription htmlDescription 
+htmlDescription image htmlDescription 
+MSRP MSRP productLine productVendor 
+quantityInStock quantityInStock productScale 
+quantityInStock productLine MSRP productScale buyPrice productScale quantityInStock 
+productScale MSRP productDescription 
+MSRP productScale productVendor productVendor 
+productVendor productDescription MSRP productScale productDescription productScale quantityInStock 
+productDescription quantityInStock productVendor 
+quantityInStock productScale productVendor MSRP productLine productVendor productLine 
+productLine productScale MSRP productDescription MSRP MSRP quantityInStock buyPrice 
+productScale productVendor buyPrice productScale buyPrice MSRP productLine 
+extension jobTitle jobTitle officeCode firstName reportsTo officeCode 
+jobTitle reportsTo 
+firstName officeCode reportsTo firstName 
+firstName officeCode 
+email extension extension extension email jobTitle 
+extension officeCode firstName extension jobTitle extension reportsTo 
+email reportsTo officeCode officeCode 
+officeCode extension extension jobTitle email jobTitle 
+firstName extension 
+email extension officeCode reportsTo 
+email reportsTo officeCode extension email officeCode jobTitle 
+email officeCode reportsTo extension 
+firstName officeCode 
+phone postalCode state 
+addressLine1 city phone phone creditLimit salesRepEmployeeNumber salesRepEmployeeNumber country contactLastName contactFirstName 
+state contactLastName 
+contactLastName phone phone city salesRepEmployeeNumber postalCode addressLine1 contactFirstName state state contactLastName 
+creditLimit addressLine2 contactLastName contactLastName creditLimit 
+contactFirstName contactFirstName contactFirstName phone 
+addressLine1 creditLimit city state salesRepEmployeeNumber creditLimit postalCode addressLine2 addressLine2 creditLimit addressLine2 contactFirstName 
+postalCode postalCode state creditLimit contactLastName city state postalCode 
+territory postalCode state territory addressLine1 
+phone addressLine2 territory postalCode addressLine1 addressLine2 country territory 
+phone addressLine1 addressLine1 phone phone addressLine2 territory addressLine1 
+addressLine1 addressLine2 addressLine2 country phone 
+country postalCode state addressLine1 
+addressLine1 phone addressLine2 phone addressLine1 phone postalCode country 
+orderLineNumber priceEach priceEach quantityOrdered X
+orderLineNumber orderLineNumber quantityOrdered orderLineNumber 
+quantityOrdered quantityOrdered priceEach orderLineNumber X
+orderLineNumber quantityOrdered quantityOrdered 
+quantityOrdered quantityOrdered priceEach 
+quantityOrdered priceEach quantityOrdered 
+quantityOrdered quantityOrdered 
+status customerNumber comments shippedDate status shippedDate 
+requiredDate shippedDate comments comments shippedDate requiredDate 
+requiredDate status status status requiredDate shippedDate 
+customerNumber status requiredDate 
+comments status requiredDate 
+comments comments 
+requiredDate status customerNumber status
+amount paymentDate paymentDate 
+paymentDate paymentDate paymentDate 
+paymentDate paymentDate paymentDate 
+amount paymentDate amount 
+paymentDate amount 
+amount amount 
+paymentDate paymentDate 
+image image image 
+image htmlDescription htmlDescription 
+image htmlDescription 
+image htmlDescription image 
+image image 
+image image 
+htmlDescription htmlDescription 
+quantityInStock MSRP 
+quantityInStock productScale 
+quantityInStock quantityInStock productVendor 
+productLine productDescription productVendor productScale quantityInStock productScale buyPrice productLine 
+MSRP productVendor buyPrice productLine productDescription productScale productScale 
+productScale buyPrice 
+productVendor productScale productVendor productLine 
